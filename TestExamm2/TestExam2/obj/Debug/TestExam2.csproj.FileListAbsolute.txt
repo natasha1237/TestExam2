@@ -1,0 +1,7 @@
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\2 курс 2019-20\4ий семестр\TestExam2C#\TestExam2\TestExam2\bin\Debug\TestExam2.exe.config
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\2 курс 2019-20\4ий семестр\TestExam2C#\TestExam2\TestExam2\bin\Debug\TestExam2.exe
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\2 курс 2019-20\4ий семестр\TestExam2C#\TestExam2\TestExam2\bin\Debug\TestExam2.pdb
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\2 курс 2019-20\4ий семестр\TestExam2C#\TestExam2\TestExam2\obj\Debug\TestExam2.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\2 курс 2019-20\4ий семестр\TestExam2C#\TestExam2\TestExam2\obj\Debug\TestExam2.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\2 курс 2019-20\4ий семестр\TestExam2C#\TestExam2\TestExam2\obj\Debug\TestExam2.exe
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\2 курс 2019-20\4ий семестр\TestExam2C#\TestExam2\TestExam2\obj\Debug\TestExam2.pdb
